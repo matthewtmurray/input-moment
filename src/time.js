@@ -13,7 +13,7 @@ module.exports = React.createClass({
         <div className="showtime">
           <span className="time">{m.format('HH')}</span>
           <span className="separater">:</span>
-          <span className="time">{m.format('mm')}</span>
+          <span className="t ime">{m.format('mm')}</span>
         </div>
 
         <div className="sliders">
